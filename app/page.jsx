@@ -27,7 +27,7 @@ const Home = () => (
     <h1 className='head_text text-center'>
       Discover & Share your posts
       <br className='max-md:hidden' />
-      <span className='orange_gradient text-center'> Milos Velickovic 92</span>
+      <span className='orange_gradient text-center'> Milos Velickovic 1992</span>
     </h1>
     {/* <p className='desc text-center'>
       Promptopia is an open-source AI prompting tool for modern world to
