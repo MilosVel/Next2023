@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@*": ["./*"] // ovo je objasnjeno u 52 minutu videa
+    }
+  }
+}
